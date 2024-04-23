@@ -11,18 +11,18 @@
   </p>
  
   <p align="center">
-    <a href="https://github.com/GitHuber20th/clash-rules-lite/blob/main/proxy-rules.txt">直接代理规则列表</a> |
-    <a href="https://github.com/GitHuber20th/clash-rules-lite/blob/main/direct-rules.txt">绕过代理规则列表</a> |
-    <a href="https://github.com/GitHuber20th/clash-rules-lite/blob/main/ADS-rules.txt">ADS规则列表</a>
+    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt">直接代理规则刷新</a> |
+    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt">绕过代理规则刷新</a> |
+    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt">ADS规则刷新</a>
   </p>
 
 </p>
 
 <p>
   <pre align="center">
-  https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt    
-  https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt
-  https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt</pre>
+  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt>
+  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt>
+  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt></pre>
 </p>
 
 
