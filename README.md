@@ -20,9 +20,9 @@
 
 <p>
   <pre align="center">
-  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt>
-  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt>
-  <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt></pre>
+  <a https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt>
+  <a https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt>
+  <a https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt></pre>
 </p>
 
 
