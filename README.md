@@ -9,7 +9,8 @@
     <img src="https://github.com/zhanyeye/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
     </a>
   </p>
- 
+  <p align="center">
+   <a href=https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/>https://cdn.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/</a>
 
 
 </p>
@@ -22,18 +23,6 @@
 </p>
 
 
-+ jsdelivr CDN 缓存没有更新怎么办？
-
-> 这是因为 jsdelivr CDN 缓存的原因，一般来说是 24小时刷新缓存，但是这样太慢了！   
-> 不过 jsdelivr CDN 也提供手动刷新缓存的方法：
-```
-# 假设你的文件 URL 是这样：
-https://cdn.jsdelivr.net/xxx/xxx...
-
-# 那么把域名中的 cdn 改为 purge 即可：
-https://purge.jsdelivr.net/xxx/xxx...
-```
-然后访问这个文件新 URL 就会提示你刷新成功！
 
 
 ### 如何自定义
