@@ -10,11 +10,7 @@
     </a>
   </p>
  
-  <p align="center">
-    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/proxy-rules.txt">直接代理规则刷新</a> |
-    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/direct-rules.txt">绕过代理规则刷新</a> |
-    <a href="https://purge.jsdelivr.net/gh/GitHuber20th/clash-rules-lite@release/ADS-rules.txt">ADS规则刷新</a>
-  </p>
+
 
 </p>
 
